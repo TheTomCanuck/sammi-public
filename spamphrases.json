@@ -5,7 +5,13 @@
         "best viewers on",
         "best viewers at",
         "buy viewers on",
-        "buy viewers at"
+        "buy viewers at",
+        "espectadores gratis",
+        "get viewers",
+        "get view ers",
+        "get vie wers",
+        "your viewers provider",
+        "stream-promotion"
     ],
     "regexMatch": "\\b(?:cheap viewers on|cheap viewers at|best viewers on|best viewers at|buy viewers on|buy viewers at)\\b"
 }
