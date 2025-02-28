@@ -11,7 +11,8 @@
         "get view ers",
         "get vie wers",
         "your viewers provider",
-        "stream-promotion"
+        "stream-promotion",
+        "NEZHNA .COM"
     ],
-    "regexMatch": "\\b(?:cheap viewers on|cheap viewers at|best viewers on|best viewers at|buy viewers on|buy viewers at)\\b"
+    "regexMatch": "\\b(?:cheap viewers on|cheap viewers at|best viewers on|best viewers at|buy viewers on|buy viewers at|NEZHNA.*@[a-zA-Z0-9])\\b"
 }
